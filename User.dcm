@@ -5,6 +5,11 @@ D Transistor N-MOSFET (general)
 K nmos n-mos n-mosfet transistor
 $ENDCMP
 #
+$CMP BTA24-800CWRG
+D triode for alternating current (TRIAC)
+K triode for alternating current TRIAC
+$ENDCMP
+#
 $CMP IRLML6244TRPbF
 D 200V Vds, N-Channel MOSFET, TO-92
 K N-Channel MOSFET
