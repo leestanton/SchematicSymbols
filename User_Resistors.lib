@@ -1,0 +1,82 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 0R
+#
+DEF 0R R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "0R" 0 0 50 V V C CNN
+F2 "Resistors_SMD:R_0402" -70 0 50 V I C CNN
+F3 "http://www.farnell.com/datasheets/1716705.pdf?_ga=1.138733107.1444424263.1464208574" 80 0 50 V I C CNN
+F4 "2072513" 150 0 60 V I C CNN "Farnell"
+F5 "---" 250 0 60 V I C CNN "RS"
+F6 "---" 350 0 60 V I C CNN "Digikey"
+F7 "---" 450 0 60 V I C CNN "Mouser"
+F8 "Multicomp" 550 0 60 V I C CNN "Manufacturer"
+F9 "MCMR04X000 PTL" 650 0 60 V I C CNN "Part Number"
+F10 "000" 750 0 60 V I C CNN "Checked"
+F11 "000" 850 0 60 V I C CNN "Note"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 10k
+#
+DEF 10k R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "10k" 0 0 50 V V C CNN
+F2 "Resistors_SMD:R_0402" -70 0 50 V I C CNN
+F3 "http://www.farnell.com/datasheets/1849611.pdf?_ga=1.18858425.1444424263.1464208574" 80 0 50 V I C CNN
+F4 "2447096" 150 0 60 V I C CNN "Farnell"
+F5 "---" 250 0 60 V I C CNN "RS"
+F6 "---" 350 0 60 V I C CNN "Digikey"
+F7 "---" 450 0 60 V I C CNN "Mouser"
+F8 "Multicomp" 550 0 60 V I C CNN "Manufacturer"
+F9 "MCWR04X1002FTL" 650 0 60 V I C CNN "Part Number"
+F10 "000" 750 0 60 V I C CNN "Checked"
+F11 "000" 850 0 60 V I C CNN "Note"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1M
+#
+DEF 1M R 0 0 N Y 1 F N
+F0 "R" 80 0 50 V V C CNN
+F1 "1M" 0 0 50 V V C CNN
+F2 "Resistors_SMD:R_0402" -70 0 50 V I C CNN
+F3 "http://www.farnell.com/datasheets/1849611.pdf?_ga=1.226986653.1444424263.1464208574" 80 0 50 V I C CNN
+F4 "2447127" 150 0 60 V I C CNN "Farnell"
+F5 "---" 250 0 60 V I C CNN "RS"
+F6 "---" 350 0 60 V I C CNN "Digikey"
+F7 "---" 450 0 60 V I C CNN "Mouser"
+F8 "Multicomp" 550 0 60 V I C CNN "Manufacturer"
+F9 "MCWR04X1004FTL" 650 0 60 V I C CNN "Part Number"
+F10 "000" 750 0 60 V I C CNN "Checked"
+F11 "000" 850 0 60 V I C CNN "Note"
+$FPLIST
+ R_*
+ R_*
+$ENDFPLIST
+DRAW
+S -40 -100 40 100 0 1 10 N
+X ~ 1 0 150 50 D 50 50 1 1 P
+X ~ 2 0 -150 50 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

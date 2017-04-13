@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10k
+D SMD Chip Resistor, Thick Film, 10 kohm, 50 V, 0402 [1005 Metric], 62.5 mW, ± 1%, MCWR 
+K r res resistor
+$ENDCMP
+#
+$CMP 1M
+D SMD Chip Resistor, Thick Film, 1 Mohm, 50 V, 0402 [1005 Metric], 62.5 mW, ± 1%, MCWR 
+K r res resistor
+$ENDCMP
+#
+#End Doc Library
