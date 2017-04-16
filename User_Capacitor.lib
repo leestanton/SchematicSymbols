@@ -27,4 +27,56 @@ X ~ 2 0 -150 110 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# 10nF
+#
+DEF 10nF C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "10nF" 25 -100 50 H V L CNN
+F2 "Capacitors_SMD:C_0402" 38 -150 50 H I C CNN
+F3 "http://www.farnell.com/datasheets/1870456.pdf?_ga=1.129426316.1444424263.1464208574" 25 100 50 H I C CNN
+F4 "2320760" 125 200 60 H I C CNN "Farnell"
+F5 "---" 225 300 60 H I C CNN "RS"
+F6 "---" 325 400 60 H I C CNN "Digikey"
+F7 "---" 425 500 60 H I C CNN "Mouser"
+F8 "Multicomp" 525 600 60 H I C CNN "Manufacturer"
+F9 "MC0402X104K250CT" 625 700 60 H I C CNN "Part Number"
+F10 "---" 725 800 60 H I C CNN "Checked"
+F11 "Copied - needs editing" 825 900 60 H I C CNN "Notes"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# 1nF
+#
+DEF 1nF C 0 10 N Y 1 F N
+F0 "C" 25 100 50 H V L CNN
+F1 "1nF" 25 -100 50 H V L CNN
+F2 "Capacitors_SMD:C_0402" 38 -150 50 H I C CNN
+F3 "http://www.farnell.com/datasheets/1870456.pdf?_ga=1.129426316.1444424263.1464208574" 25 100 50 H I C CNN
+F4 "2320760" 125 200 60 H I C CNN "Farnell"
+F5 "---" 225 300 60 H I C CNN "RS"
+F6 "---" 325 400 60 H I C CNN "Digikey"
+F7 "---" 425 500 60 H I C CNN "Mouser"
+F8 "Multicomp" 525 600 60 H I C CNN "Manufacturer"
+F9 "MC0402X104K250CT" 625 700 60 H I C CNN "Part Number"
+F10 "---" 725 800 60 H I C CNN "Checked"
+F11 "Copied - needs editing" 825 900 60 H I C CNN "Notes"
+$FPLIST
+ C_*
+$ENDFPLIST
+DRAW
+P 2 0 1 20 -80 -30 80 -30 N
+P 2 0 1 20 -80 30 80 30 N
+X ~ 1 0 150 110 D 50 50 1 1 P
+X ~ 2 0 -150 110 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 #End Library

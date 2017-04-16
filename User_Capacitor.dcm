@@ -5,4 +5,14 @@ D SMD Multilayer Ceramic Capacitor, 0402 [1005 Metric], 0.1 µF, 25 V, ± 10%, X
 K cap capacitor
 $ENDCMP
 #
+$CMP 10nF
+D SMD Multilayer Ceramic Capacitor, 0402 [1005 Metric], 0.1 µF, 25 V, ± 10%, X5R, MC Series
+K cap capacitor
+$ENDCMP
+#
+$CMP 1nF
+D SMD Multilayer Ceramic Capacitor, 0402 [1005 Metric], 0.1 µF, 25 V, ± 10%, X5R, MC Series
+K cap capacitor
+$ENDCMP
+#
 #End Doc Library

@@ -1,6 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP C
+$CMP 100nF
+D SMD Multilayer Ceramic Capacitor, 0402 [1005 Metric], 0.1 µF, 25 V, ± 10%, X5R, MC Series
+K cap capacitor
+$ENDCMP
+#
+$CMP 1nF
 D SMD Multilayer Ceramic Capacitor, 0402 [1005 Metric], 0.1 µF, 25 V, ± 10%, X5R, MC Series
 K cap capacitor
 $ENDCMP
