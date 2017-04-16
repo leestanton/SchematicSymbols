@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Dipole
+#
+DEF Dipole Y 0 40 Y Y 1 F N
+F0 "Y" -100 -550 60 H V C CNN
+F1 "Dipole" 0 400 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+P 4 0 1 0 0 200 150 350 -150 350 0 200 N
+X Feed 1 0 0 200 U 50 50 1 1 I
+X GND 2 0 -550 200 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
