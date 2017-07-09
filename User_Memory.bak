@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.3
 DEF EPCS1 U 0 40 Y Y 1 F N
 F0 "U" -250 -300 60 H V C CNN
 F1 "EPCS1" -150 300 60 H V C CNN
-F2 "Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm" 0 -50 60 H I C CNN
+F2 "" 0 -50 60 H I C CNN
 F3 "http://docs-europe.electrocomponents.com/webdocs/077a/0900766b8077aa80.pdf" 0 -50 60 H I C CNN
 F4 "---" -150 -200 60 H I C CNN "Farnell"
 F5 "546-1573" -50 -100 60 H I C CNN "RS"
