@@ -1,5 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
+<<<<<<< HEAD
 $CMP NC7WZ16
 D Buffer, 1.65 V to 5.5 V, SC-70-6
 $ENDCMP
@@ -8,4 +9,6 @@ $CMP NC7WZ16-(Through)
 D Buffer, 1.65 V to 5.5 V, SC-70-6
 $ENDCMP
 #
+=======
+>>>>>>> 082b59a026ec09cc6d0e07cbc86d3e44c03d856e
 #End Doc Library
